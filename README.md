@@ -1,6 +1,5 @@
 ## Task Management System Apk: A Task Management Application for the Students living abroad in dormitory
-The Task Management System is a simple yet powerful application to help you organize and keep track of tasks. 
-The Task Management System provides a user-friendly interface for creating, managing, and tracking tasks. It is designed to streamline your workflow and enhance productivity.
+The Task Management System is a simple yet powerful application to help you organize and keep track of tasks. \nThe Task Management System provides a user-friendly interface for creating, managing, and tracking tasks. It is designed to streamline your workflow and enhance productivity.
 
 ## Getting Started
 
